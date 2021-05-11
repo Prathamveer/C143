@@ -1,0 +1,16 @@
+C:\Users\saba2>cd C:\Users\saba2\Desktop\whitehat\datasc
+C:\Users\saba2\Desktop\whitehat\datasc>expo init C143
+C:\Users\saba2\Desktop\whitehat\datasc\C143>npm install
+
+
+******
+npm install react-native-elements@1.2.7
+npm install react-native-responsive-fontsize
+npm install axios
+
+**************
+Open another cmd window
+**************
+
+C:\Users\saba2>cd C:\Users\saba2\Desktop\whitehat\datasc\C142
+C:\Users\saba2\Desktop\whitehat\datasc\C142>venv\Scripts\activate.bat
